@@ -35,58 +35,13 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
       
-      - name: Verify theme structure
-        run: |
-          echo "Checking theme structure..."
-          ls -la DoAn/ || echo "DoAn theme not found in root"
-          echo "Checking exampleSite..."
-          ls -la exampleSite/ || echo "exampleSite not found"
-          echo "Checking if theme can be found from exampleSite..."
-          cd exampleSite
-          ls -la ../DoAn/ || echo "Theme not accessible from exampleSite"
-      
-      - name: Build with Hugo
+      - name: Build
         working-directory: ./exampleSite
-        env:
-          HUGO_ENV: production
         run: |
-          echo "=== Building Hugo site ==="
-          echo "Current directory: $(pwd)"
-          echo ""
-          echo "=== Hugo version ==="
-          hugo version
-          echo ""
-          echo "=== Checking files ==="
-          ls -la
-          echo ""
-          echo "=== Config file content ==="
-          cat hugo.toml | head -10
-          echo ""
-          echo "=== Checking theme ==="
-          ls -la ../DoAn/ 2>&1 | head -10 || echo "Theme check failed"
-          echo ""
-          echo "=== Building with Hugo (all output) ==="
           hugo \
             --gc \
             --minify \
-            --baseURL "https://Kieran262.github.io/Blog_ca_nhan_network/" \
-            --verbose \
-            --logLevel debug 2>&1 || {
-            echo ""
-            echo "=== BUILD FAILED ==="
-            echo "Exit code: $?"
-            exit 1
-          }
-          echo ""
-          echo "=== Build completed! Checking output ==="
-          if [ -d public ]; then
-            echo "Public directory exists"
-            ls -la public/ | head -20
-            du -sh public/
-          else
-            echo "ERROR: public directory was not created!"
-            exit 1
-          fi
+            --baseURL "${{ steps.pages.outputs.base_url }}/"
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
@@ -103,4 +58,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
