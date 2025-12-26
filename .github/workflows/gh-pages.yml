@@ -50,41 +50,43 @@ jobs:
         env:
           HUGO_ENV: production
         run: |
-          set -e
-          echo "Building Hugo site..."
+          echo "=== Building Hugo site ==="
           echo "Current directory: $(pwd)"
-          echo "Hugo version:"
+          echo ""
+          echo "=== Hugo version ==="
           hugo version
-          echo "Checking config file:"
-          if [ ! -f hugo.toml ]; then
-            echo "ERROR: hugo.toml not found!"
-            exit 1
-          fi
-          echo "Config file exists. First few lines:"
-          head -10 hugo.toml
-          echo "Checking theme directory:"
-          if [ ! -d ../DoAn ]; then
-            echo "ERROR: Theme DoAn not found at ../DoAn"
-            exit 1
-          fi
-          echo "Theme found. Contents:"
-          ls -la ../DoAn/ | head -10
-          echo "Building with Hugo..."
+          echo ""
+          echo "=== Checking files ==="
+          ls -la
+          echo ""
+          echo "=== Config file content ==="
+          cat hugo.toml | head -10
+          echo ""
+          echo "=== Checking theme ==="
+          ls -la ../DoAn/ 2>&1 | head -10 || echo "Theme check failed"
+          echo ""
+          echo "=== Building with Hugo (all output) ==="
           hugo \
             --gc \
             --minify \
             --baseURL "https://Kieran262.github.io/Blog_ca_nhan_network/" \
-            --verbose 2>&1
-          echo "Build completed successfully!"
-          echo "Checking public directory:"
-          if [ ! -d public ]; then
+            --verbose \
+            --logLevel debug 2>&1 || {
+            echo ""
+            echo "=== BUILD FAILED ==="
+            echo "Exit code: $?"
+            exit 1
+          }
+          echo ""
+          echo "=== Build completed! Checking output ==="
+          if [ -d public ]; then
+            echo "Public directory exists"
+            ls -la public/ | head -20
+            du -sh public/
+          else
             echo "ERROR: public directory was not created!"
             exit 1
           fi
-          echo "Public directory exists. Contents:"
-          ls -la public/ | head -20
-          echo "Public directory size:"
-          du -sh public/
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
