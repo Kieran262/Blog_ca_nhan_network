@@ -6,11 +6,17 @@
     background-repeat: no-repeat;
     padding: 0;
     width: 100%;
+    /* Ensure no blur is applied */
+    filter: none;
+    -webkit-filter: none;
+    backdrop-filter: none;
+    /* Ensure opacity is not inherited */
+    opacity: 1;
 }
 
 #home-cv-wrapper .intro-header {
-    background-color: rgba(255, 255, 255, 0.9);
-    /* Add overlay to ensure text readability */
+    /* Reduced overlay to very light level as requested (0.15-0.25) */
+    background-color: rgba(0, 0, 0, 0.2);
     margin: 0;
     width: 100%;
 }
