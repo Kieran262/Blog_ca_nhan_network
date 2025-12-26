@@ -38,16 +38,10 @@ jobs:
       - name: Build
         working-directory: ./exampleSite
         run: |
-          echo "Building with baseURL: https://Kieran262.github.io/Blog_ca_nhan_network"
           hugo \
             --gc \
             --minify \
-            --baseURL "https://Kieran262.github.io/Blog_ca_nhan_network" \
-            --verbose
-          echo "Build completed. Checking public directory:"
-          ls -la public/ | head -10
-          echo "Checking index.html:"
-          head -20 public/index.html | grep -i "href\|base" || echo "No href/base found in first 20 lines"
+            --baseURL "https://Kieran262.github.io/Blog_ca_nhan_network/"
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
