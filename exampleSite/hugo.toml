@@ -1,4 +1,4 @@
-baseurl = "https://Kieran262.github.io/Blog_ca_nhan_network/"
+baseurl = "https://Kieran262.github.io/Blog_ca_nhan_network"
 title = "Blog lập trình mạng - Vũ Trường Thịnh"
 theme = "DoAn"
 themesDir = ".."
