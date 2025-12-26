@@ -1,12 +1,14 @@
 {{ define "main" }}
-  <!-- Phần giới thiệu trang Home -->
+<!-- Phần giới thiệu trang Home -->
+<!-- Phần giới thiệu trang Home -->
+<section id="home-cv-wrapper">
   <section class="intro-header" style="padding: 60px 0 40px 0;">
     <div class="container">
       <div class="row">
         <div class="
-          col-lg-8 col-lg-offset-2
-          col-md-10 col-md-offset-1
-        ">
+              col-lg-8 col-lg-offset-2
+              col-md-10 col-md-offset-1
+            ">
           <h1 style="margin-top:0;">Blog lập trình mạng - Vũ Trường Thịnh</h1>
           <p>
             Chào bạn, mình là <strong>Vũ Trường Thịnh</strong>. Đây là blog cá nhân nơi mình chia sẻ
@@ -38,7 +40,8 @@
       </div>
     </div>
   </section>
+</section>
 
-  <!-- Danh sách bài viết -->
-  {{ partial "portfolio.html" . }}
+<!-- Danh sách bài viết -->
+{{ partial "portfolio.html" . }}
 {{ end }}
