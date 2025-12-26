@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Callback on Blog lập trình mạng - Vũ Trường Thịnh</title>
+    <link>https://Kieran262.github.io/Blog_ca_nhan_network/tags/callback/</link>
+    <description>Recent content in Callback on Blog lập trình mạng - Vũ Trường Thịnh</description>
+    <generator>Hugo</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Tue, 23 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://Kieran262.github.io/Blog_ca_nhan_network/tags/callback/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lập trình bất đồng bộ trong JavaScript – Khi mình không còn sợ callback</title>
+      <link>https://Kieran262.github.io/Blog_ca_nhan_network/blog/2025-12-23-lap-trinh-bat-dong-bo-trong-javascript-khi-minh-khong-con-so-callback/</link>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/blog/2025-12-23-lap-trinh-bat-dong-bo-trong-javascript-khi-minh-khong-con-so-callback/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Lập trình bất đồng bộ là một khái niệm quan trọng trong JavaScript. Mình chia sẻ hành trình học tập của mình.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;callback-bắt-đầu-từ-đây&#34;&gt;Callback: Bắt đầu từ đây&lt;/h2&gt;&#xA;&lt;p&gt;Ban đầu mình dùng callback. Nhưng khi có nhiều callback lồng nhau, code trở nên rất khó đọc (callback hell).&lt;/p&gt;&#xA;&lt;h2 id=&#34;promise-giải-pháp-tốt-hơn&#34;&gt;Promise: Giải pháp tốt hơn&lt;/h2&gt;&#xA;&lt;p&gt;Promise giúp mình viết code bất đồng bộ dễ đọc hơn. Mình học về &lt;code&gt;.then()&lt;/code&gt;, &lt;code&gt;.catch()&lt;/code&gt;, và &lt;code&gt;.finally()&lt;/code&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lập trình bất đồng bộ trong JavaScript – Khi mình không còn sợ callback</title>
+      <link>https://Kieran262.github.io/Blog_ca_nhan_network/post/2025-12-23-lap-trinh-bat-dong-bo-trong-javascript-khi-minh-khong-con-so-callback/</link>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/post/2025-12-23-lap-trinh-bat-dong-bo-trong-javascript-khi-minh-khong-con-so-callback/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Lập trình bất đồng bộ là một khái niệm quan trọng trong JavaScript. Mình chia sẻ hành trình học tập của mình.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;callback-bắt-đầu-từ-đây&#34;&gt;Callback: Bắt đầu từ đây&lt;/h2&gt;&#xA;&lt;p&gt;Ban đầu mình dùng callback. Nhưng khi có nhiều callback lồng nhau, code trở nên rất khó đọc (callback hell).&lt;/p&gt;&#xA;&lt;h2 id=&#34;promise-giải-pháp-tốt-hơn&#34;&gt;Promise: Giải pháp tốt hơn&lt;/h2&gt;&#xA;&lt;p&gt;Promise giúp mình viết code bất đồng bộ dễ đọc hơn. Mình học về &lt;code&gt;.then()&lt;/code&gt;, &lt;code&gt;.catch()&lt;/code&gt;, và &lt;code&gt;.finally()&lt;/code&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
