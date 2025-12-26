@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Client-Server on Blog lập trình mạng - Vũ Trường Thịnh</title>
-    <link>/tags/client-server/</link>
+    <link>https://Kieran262.github.io/Blog_ca_nhan_network/tags/client-server/</link>
     <description>Recent content in Client-Server on Blog lập trình mạng - Vũ Trường Thịnh</description>
     <generator>Hugo</generator>
     <language>vi-vn</language>
     <lastBuildDate>Tue, 23 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/client-server/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Kieran262.github.io/Blog_ca_nhan_network/tags/client-server/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Xây dựng mô hình Client–Server đơn giản bằng Java: Góc nhìn người mới học</title>
-      <link>/blog/2025-12-23-xay-dung-mo-hinh-client-server-don-gian-bang-java/</link>
+      <link>https://Kieran262.github.io/Blog_ca_nhan_network/blog/2025-12-23-xay-dung-mo-hinh-client-server-don-gian-bang-java/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>/blog/2025-12-23-xay-dung-mo-hinh-client-server-don-gian-bang-java/</guid>
+      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/blog/2025-12-23-xay-dung-mo-hinh-client-server-don-gian-bang-java/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Khi học về Client-Server, mình đã từng thắc mắc: &amp;ldquo;Tại sao lại cần mô hình này? Tại sao không phải là cách khác?&amp;rdquo; Bài viết này là câu trả lời mà mình tự tìm ra thông qua việc thực hành.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;hiểu-về-client-server-theo-cách-của-mình&#34;&gt;Hiểu về Client-Server theo cách của mình&lt;/h2&gt;&#xA;&lt;p&gt;Trước khi học lập trình mạng, mình nghĩ rằng mọi chương trình đều hoạt động độc lập. Nhưng khi được giới thiệu về Client-Server, mình mới nhận ra rằng trong thực tế, các ứng dụng thường chia thành hai phần: một phần cung cấp dịch vụ (server) và một phần sử dụng dịch vụ đó (client).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Xây dựng mô hình Client–Server đơn giản bằng Java: Góc nhìn người mới học</title>
-      <link>/post/2025-12-23-xay-dung-mo-hinh-client-server-don-gian-bang-java/</link>
+      <link>https://Kieran262.github.io/Blog_ca_nhan_network/post/2025-12-23-xay-dung-mo-hinh-client-server-don-gian-bang-java/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>/post/2025-12-23-xay-dung-mo-hinh-client-server-don-gian-bang-java/</guid>
+      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/post/2025-12-23-xay-dung-mo-hinh-client-server-don-gian-bang-java/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Khi học về Client-Server, mình đã từng thắc mắc: &amp;ldquo;Tại sao lại cần mô hình này? Tại sao không phải là cách khác?&amp;rdquo; Bài viết này là câu trả lời mà mình tự tìm ra thông qua việc thực hành.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;hiểu-về-client-server-theo-cách-của-mình&#34;&gt;Hiểu về Client-Server theo cách của mình&lt;/h2&gt;&#xA;&lt;p&gt;Trước khi học lập trình mạng, mình nghĩ rằng mọi chương trình đều hoạt động độc lập. Nhưng khi được giới thiệu về Client-Server, mình mới nhận ra rằng trong thực tế, các ứng dụng thường chia thành hai phần: một phần cung cấp dịch vụ (server) và một phần sử dụng dịch vụ đó (client).&lt;/p&gt;</description>
     </item>
   </channel>
