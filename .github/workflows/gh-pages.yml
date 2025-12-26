@@ -41,7 +41,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --baseURL "https://Kieran262.github.io/Blog_ca_nhan_network/"
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
