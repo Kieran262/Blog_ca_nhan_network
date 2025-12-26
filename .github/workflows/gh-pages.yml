@@ -42,6 +42,9 @@ jobs:
             --gc \
             --minify \
             --baseURL "https://Kieran262.github.io/Blog_ca_nhan_network/"
+          echo "Checking if CSS/JS files exist:"
+          ls -la public/css/ | head -5 || echo "CSS directory not found"
+          ls -la public/js/ | head -5 || echo "JS directory not found"
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
