@@ -1,0 +1,16 @@
+/* Custom CSS for Home Page Background */
+#home-cv-wrapper {
+    background-image: url('../img/avt.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    padding: 0;
+    width: 100%;
+}
+
+#home-cv-wrapper .intro-header {
+    background-color: rgba(255, 255, 255, 0.9);
+    /* Add overlay to ensure text readability */
+    margin: 0;
+    width: 100%;
+}
