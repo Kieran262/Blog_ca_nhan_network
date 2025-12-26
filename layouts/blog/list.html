@@ -1,0 +1,7 @@
+{{ define "main" }}
+<!-- Blog List Page - Hiển thị danh sách bài đăng cho section blog -->
+{{ $pages := where .Site.RegularPages "Section" "blog" }}
+{{ $paginator := .Paginate $pages 9 }}
+{{ partial "posts.html" . }}
+{{ end }}
+
