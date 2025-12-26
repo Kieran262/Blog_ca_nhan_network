@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Udp on Blog lập trình mạng - Vũ Trường Thịnh</title>
-    <link>/tags/udp/</link>
+    <link>https://Kieran262.github.io/Blog_ca_nhan_network/tags/udp/</link>
     <description>Recent content in Udp on Blog lập trình mạng - Vũ Trường Thịnh</description>
     <generator>Hugo</generator>
     <language>vi-vn</language>
     <lastBuildDate>Tue, 23 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/udp/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Kieran262.github.io/Blog_ca_nhan_network/tags/udp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TCP và UDP trong Java: So sánh qua trải nghiệm học tập</title>
-      <link>/blog/2025-12-23-tcp-va-udp-trong-java-so-sanh-qua-trai-nghiem-hoc-tap/</link>
+      <link>https://Kieran262.github.io/Blog_ca_nhan_network/blog/2025-12-23-tcp-va-udp-trong-java-so-sanh-qua-trai-nghiem-hoc-tap/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>/blog/2025-12-23-tcp-va-udp-trong-java-so-sanh-qua-trai-nghiem-hoc-tap/</guid>
+      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/blog/2025-12-23-tcp-va-udp-trong-java-so-sanh-qua-trai-nghiem-hoc-tap/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Khi học về TCP và UDP, mình đã từng thắc mắc: &amp;ldquo;Tại sao lại cần hai giao thức? Khi nào dùng cái nào?&amp;rdquo; Bài viết này là những ghi chép của mình sau khi thực hành với cả hai.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;tcp-đáng-tin-cậy-nhưng-chậm-hơn&#34;&gt;TCP: Đáng tin cậy nhưng chậm hơn&lt;/h2&gt;&#xA;&lt;p&gt;TCP (Transmission Control Protocol) là giao thức hướng kết nối. Mình hiểu nó giống như gửi thư có xác nhận: bạn gửi thư và đợi người nhận xác nhận đã nhận được. Nếu không nhận được xác nhận, bạn sẽ gửi lại.&lt;/p&gt;</description>
     </item>
     <item>
       <title>TCP và UDP trong Java: So sánh qua trải nghiệm học tập</title>
-      <link>/post/2025-12-23-tcp-va-udp-trong-java-so-sanh-qua-trai-nghiem-hoc-tap/</link>
+      <link>https://Kieran262.github.io/Blog_ca_nhan_network/post/2025-12-23-tcp-va-udp-trong-java-so-sanh-qua-trai-nghiem-hoc-tap/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>/post/2025-12-23-tcp-va-udp-trong-java-so-sanh-qua-trai-nghiem-hoc-tap/</guid>
+      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/post/2025-12-23-tcp-va-udp-trong-java-so-sanh-qua-trai-nghiem-hoc-tap/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Khi học về TCP và UDP, mình đã từng thắc mắc: &amp;ldquo;Tại sao lại cần hai giao thức? Khi nào dùng cái nào?&amp;rdquo; Bài viết này là những ghi chép của mình sau khi thực hành với cả hai.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;tcp-đáng-tin-cậy-nhưng-chậm-hơn&#34;&gt;TCP: Đáng tin cậy nhưng chậm hơn&lt;/h2&gt;&#xA;&lt;p&gt;TCP (Transmission Control Protocol) là giao thức hướng kết nối. Mình hiểu nó giống như gửi thư có xác nhận: bạn gửi thư và đợi người nhận xác nhận đã nhận được. Nếu không nhận được xác nhận, bạn sẽ gửi lại.&lt;/p&gt;</description>
     </item>
   </channel>

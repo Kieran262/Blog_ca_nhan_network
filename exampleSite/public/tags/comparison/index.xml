@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Comparison on Blog lập trình mạng - Vũ Trường Thịnh</title>
-    <link>/tags/comparison/</link>
+    <link>https://Kieran262.github.io/Blog_ca_nhan_network/tags/comparison/</link>
     <description>Recent content in Comparison on Blog lập trình mạng - Vũ Trường Thịnh</description>
     <generator>Hugo</generator>
     <language>vi-vn</language>
     <lastBuildDate>Tue, 23 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/comparison/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Kieran262.github.io/Blog_ca_nhan_network/tags/comparison/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>So sánh Java và JavaScript trong lập trình mạng: Góc nhìn của người đang học</title>
-      <link>/blog/2025-12-23-so-sanh-java-va-javascript-trong-lap-trinh-mang-goc-nhin-cua-nguoi-dang-hoc/</link>
+      <link>https://Kieran262.github.io/Blog_ca_nhan_network/blog/2025-12-23-so-sanh-java-va-javascript-trong-lap-trinh-mang-goc-nhin-cua-nguoi-dang-hoc/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>/blog/2025-12-23-so-sanh-java-va-javascript-trong-lap-trinh-mang-goc-nhin-cua-nguoi-dang-hoc/</guid>
+      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/blog/2025-12-23-so-sanh-java-va-javascript-trong-lap-trinh-mang-goc-nhin-cua-nguoi-dang-hoc/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Sau khi học cả Java và JavaScript cho lập trình mạng, mình muốn chia sẻ những so sánh và suy nghĩ của mình.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;java-mạnh-mẽ-và-rõ-ràng&#34;&gt;Java: Mạnh mẽ và rõ ràng&lt;/h2&gt;&#xA;&lt;p&gt;Java cho phép mình xây dựng server mạnh mẽ với Socket. Code rõ ràng, type-safe, và dễ debug. Mình thích cách Java xử lý exception một cách rõ ràng.&lt;/p&gt;&#xA;&lt;h2 id=&#34;javascript-linh-hoạt-và-hiện-đại&#34;&gt;JavaScript: Linh hoạt và hiện đại&lt;/h2&gt;&#xA;&lt;p&gt;JavaScript trong trình duyệt cho phép mình tương tác với server qua HTTP một cách dễ dàng. Fetch API và async/await giúp code rất dễ đọc.&lt;/p&gt;</description>
     </item>
     <item>
       <title>So sánh Java và JavaScript trong lập trình mạng: Góc nhìn của người đang học</title>
-      <link>/post/2025-12-23-so-sanh-java-va-javascript-trong-lap-trinh-mang-goc-nhin-cua-nguoi-dang-hoc/</link>
+      <link>https://Kieran262.github.io/Blog_ca_nhan_network/post/2025-12-23-so-sanh-java-va-javascript-trong-lap-trinh-mang-goc-nhin-cua-nguoi-dang-hoc/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>/post/2025-12-23-so-sanh-java-va-javascript-trong-lap-trinh-mang-goc-nhin-cua-nguoi-dang-hoc/</guid>
+      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/post/2025-12-23-so-sanh-java-va-javascript-trong-lap-trinh-mang-goc-nhin-cua-nguoi-dang-hoc/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Sau khi học cả Java và JavaScript cho lập trình mạng, mình muốn chia sẻ những so sánh và suy nghĩ của mình.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;java-mạnh-mẽ-và-rõ-ràng&#34;&gt;Java: Mạnh mẽ và rõ ràng&lt;/h2&gt;&#xA;&lt;p&gt;Java cho phép mình xây dựng server mạnh mẽ với Socket. Code rõ ràng, type-safe, và dễ debug. Mình thích cách Java xử lý exception một cách rõ ràng.&lt;/p&gt;&#xA;&lt;h2 id=&#34;javascript-linh-hoạt-và-hiện-đại&#34;&gt;JavaScript: Linh hoạt và hiện đại&lt;/h2&gt;&#xA;&lt;p&gt;JavaScript trong trình duyệt cho phép mình tương tác với server qua HTTP một cách dễ dàng. Fetch API và async/await giúp code rất dễ đọc.&lt;/p&gt;</description>
     </item>
   </channel>
