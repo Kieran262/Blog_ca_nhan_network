@@ -5,6 +5,7 @@ themesDir = ".."
 languageCode = "vi-vn"
 preserveTaxonomyNames = true
 hasCJKLanguage = true
+canonifyURLs = true
 
 [services]
   # Enable comments by entering your Disqus shortname
