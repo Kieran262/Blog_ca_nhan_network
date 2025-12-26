@@ -50,20 +50,41 @@ jobs:
         env:
           HUGO_ENV: production
         run: |
+          set -e
           echo "Building Hugo site..."
           echo "Current directory: $(pwd)"
           echo "Hugo version:"
           hugo version
-          echo "Config file:"
-          cat hugo.toml | head -10
-          echo "Building..."
+          echo "Checking config file:"
+          if [ ! -f hugo.toml ]; then
+            echo "ERROR: hugo.toml not found!"
+            exit 1
+          fi
+          echo "Config file exists. First few lines:"
+          head -10 hugo.toml
+          echo "Checking theme directory:"
+          if [ ! -d ../DoAn ]; then
+            echo "ERROR: Theme DoAn not found at ../DoAn"
+            exit 1
+          fi
+          echo "Theme found. Contents:"
+          ls -la ../DoAn/ | head -10
+          echo "Building with Hugo..."
           hugo \
             --gc \
             --minify \
             --baseURL "https://Kieran262.github.io/Blog_ca_nhan_network/" \
-            --verbose || exit 1
-          echo "Build completed. Checking public directory:"
-          ls -la public/ | head -10
+            --verbose 2>&1
+          echo "Build completed successfully!"
+          echo "Checking public directory:"
+          if [ ! -d public ]; then
+            echo "ERROR: public directory was not created!"
+            exit 1
+          fi
+          echo "Public directory exists. Contents:"
+          ls -la public/ | head -20
+          echo "Public directory size:"
+          du -sh public/
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
