@@ -47,56 +47,57 @@
     {{ end }}
     <!-- end ogp -->
 
-    <meta name="keyword"  content="{{ .Site.Params.keyword }}">
-    <link rel="shortcut icon" href="{{ "img/favicon.ico" | relURL }}">
+    <meta name="keyword" content="{{ .Site.Params.keyword }}">
+    <link rel="shortcut icon" href="/img/favicon.ico">
 
-    <title>{{ if .Title }}{{ .Title }} | {{ .Site.Params.SEOTitle }}{{ else }}{{ .Site.Params.SEOTitle }}{{ end }}</title>
+    <title>{{ if .Title }}{{ .Title }} | {{ .Site.Params.SEOTitle }}{{ else }}{{ .Site.Params.SEOTitle }}{{ end }}
+    </title>
 
     <link rel="canonical" href="{{ .RelPermalink }}">
 
     {{ if .Site.Params.disqus_proxy }}
-    <link rel="stylesheet" href="{{ "css/iDisqus.min.css" | relURL }}"/>
+    <link rel="stylesheet" href="/css/iDisqus.min.css" />
     {{ end }}
 
     <!-- Bootstrap Core CSS -->
-    <link rel="stylesheet" href="{{ "css/bootstrap.min.css" | relURL }}">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
 
     <!-- Clean White theme CSS -->
-    <link rel="stylesheet" href="{{ "css/hugo-theme-cleanwhite.min.css" | relURL }}">
+    <link rel="stylesheet" href="/css/hugo-theme-cleanwhite.min.css">
 
     <!-- zangshang CSS -->
-    <link rel="stylesheet" href="{{ "css/zanshang.min.css" | relURL }}">
+    <link rel="stylesheet" href="/css/zanshang.min.css">
 
     <!-- Custom Fonts -->
-    <link rel="stylesheet" href="{{ "css/font-awesome.all.min.css" | relURL }}">
+    <link rel="stylesheet" href="/css/font-awesome.all.min.css">
 
     <!-- KaTeX CSS  -->
     {{ $noop := .WordCount }}
     {{ if .Page.Store.Get "hasMath" -}}
-        {{ partial "math/katex-css.html" . -}}
-        {{ partial "math/katex-fonts.html" . -}}
+    {{ partial "math/katex-css.html" . -}}
+    {{ partial "math/katex-fonts.html" . -}}
     {{ end -}}
 
     <!--  Custom CSS  -->
     {{ range .Site.Params.custom_css -}}
-    <link rel="stylesheet" href="{{ . | relURL }}">
+    <link rel="stylesheet" href="/{{ . }}">
     {{- end }}
 
     <!-- jQuery -->
-    <script src="{{ "js/jquery.min.js" | relURL }}"></script>
+    <script src="/js/jquery.min.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="{{ "js/bootstrap.min.js" | relURL }}"></script>
+    <script src="/js/bootstrap.min.js"></script>
 
     <!-- Hux Theme JavaScript -->
-    <script src="{{ "js/hux-blog.min.js" | relURL }}"></script>
+    <script src="/js/hux-blog.min.js"></script>
 
     <!-- lazy load image JavaScript -->
-    <script src="{{ "js/lazysizes.min.js" | relURL }}"></script>
+    <script src="/js/lazysizes.min.js"></script>
 
     <!-- Custom JS -->
     {{ range .Site.Params.custom_js }}
-    <script src="{{ . | relURL }}"></script>
+    <script src="/{{ . }}"></script>
     {{ end }}
 
 </head>
