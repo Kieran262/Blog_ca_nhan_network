@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Exception on Blog lập trình mạng - Vũ Trường Thịnh</title>
-    <link>https://Kieran262.github.io/Blog_ca_nhan_network/tags/exception/</link>
+    <link>/tags/exception/</link>
     <description>Recent content in Exception on Blog lập trình mạng - Vũ Trường Thịnh</description>
     <generator>Hugo</generator>
     <language>vi-vn</language>
     <lastBuildDate>Tue, 23 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://Kieran262.github.io/Blog_ca_nhan_network/tags/exception/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/exception/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quản lý lỗi và Exception khi lập trình mạng Java</title>
-      <link>https://Kieran262.github.io/Blog_ca_nhan_network/blog/2025-12-23-quan-ly-loi-va-exception-khi-lap-trinh-mang-java/</link>
+      <link>/blog/2025-12-23-quan-ly-loi-va-exception-khi-lap-trinh-mang-java/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/blog/2025-12-23-quan-ly-loi-va-exception-khi-lap-trinh-mang-java/</guid>
+      <guid>/blog/2025-12-23-quan-ly-loi-va-exception-khi-lap-trinh-mang-java/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Xử lý lỗi là một phần quan trọng trong lập trình mạng. Mình chia sẻ những bài học từ các lỗi mình đã gặp.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;các-loại-exception-thường-gặp&#34;&gt;Các loại exception thường gặp&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;IOException&lt;/code&gt;: Lỗi khi đọc/ghi dữ liệu&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;SocketException&lt;/code&gt;: Lỗi kết nối socket&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;ConnectException&lt;/code&gt;: Không thể kết nối đến server&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;BindException&lt;/code&gt;: Port đã được sử dụng&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;cách-xử-lý-exception&#34;&gt;Cách xử lý exception&lt;/h2&gt;&#xA;&lt;p&gt;Mình học được rằng cần:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Bắt exception cụ thể&lt;/li&gt;&#xA;&lt;li&gt;Ghi log để debug&lt;/li&gt;&#xA;&lt;li&gt;Đóng tài nguyên đúng cách&lt;/li&gt;&#xA;&lt;li&gt;Thông báo lỗi rõ ràng cho người dùng&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;kết-luận&#34;&gt;Kết luận&lt;/h2&gt;&#xA;&lt;p&gt;Xử lý exception đúng cách giúp ứng dụng ổn định và dễ debug hơn. Đừng bỏ qua việc xử lý lỗi!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Quản lý lỗi và Exception khi lập trình mạng Java</title>
-      <link>https://Kieran262.github.io/Blog_ca_nhan_network/post/2025-12-23-quan-ly-loi-va-exception-khi-lap-trinh-mang-java/</link>
+      <link>/post/2025-12-23-quan-ly-loi-va-exception-khi-lap-trinh-mang-java/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/post/2025-12-23-quan-ly-loi-va-exception-khi-lap-trinh-mang-java/</guid>
+      <guid>/post/2025-12-23-quan-ly-loi-va-exception-khi-lap-trinh-mang-java/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Xử lý lỗi là một phần quan trọng trong lập trình mạng. Mình chia sẻ những bài học từ các lỗi mình đã gặp.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;các-loại-exception-thường-gặp&#34;&gt;Các loại exception thường gặp&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;IOException&lt;/code&gt;: Lỗi khi đọc/ghi dữ liệu&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;SocketException&lt;/code&gt;: Lỗi kết nối socket&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;ConnectException&lt;/code&gt;: Không thể kết nối đến server&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;BindException&lt;/code&gt;: Port đã được sử dụng&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;cách-xử-lý-exception&#34;&gt;Cách xử lý exception&lt;/h2&gt;&#xA;&lt;p&gt;Mình học được rằng cần:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Bắt exception cụ thể&lt;/li&gt;&#xA;&lt;li&gt;Ghi log để debug&lt;/li&gt;&#xA;&lt;li&gt;Đóng tài nguyên đúng cách&lt;/li&gt;&#xA;&lt;li&gt;Thông báo lỗi rõ ràng cho người dùng&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;kết-luận&#34;&gt;Kết luận&lt;/h2&gt;&#xA;&lt;p&gt;Xử lý exception đúng cách giúp ứng dụng ổn định và dễ debug hơn. Đừng bỏ qua việc xử lý lỗi!&lt;/p&gt;</description>
     </item>
   </channel>

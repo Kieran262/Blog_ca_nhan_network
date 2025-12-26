@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Socket on Blog lập trình mạng - Vũ Trường Thịnh</title>
-    <link>https://Kieran262.github.io/Blog_ca_nhan_network/tags/socket/</link>
+    <link>/tags/socket/</link>
     <description>Recent content in Socket on Blog lập trình mạng - Vũ Trường Thịnh</description>
     <generator>Hugo</generator>
     <language>vi-vn</language>
     <lastBuildDate>Tue, 23 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://Kieran262.github.io/Blog_ca_nhan_network/tags/socket/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/socket/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hành trình làm quen với lập trình mạng bằng Java Socket</title>
-      <link>https://Kieran262.github.io/Blog_ca_nhan_network/blog/2025-12-23-hanh-trinh-lam-quen-voi-lap-trinh-mang-bang-java-socket/</link>
+      <link>/blog/2025-12-23-hanh-trinh-lam-quen-voi-lap-trinh-mang-bang-java-socket/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/blog/2025-12-23-hanh-trinh-lam-quen-voi-lap-trinh-mang-bang-java-socket/</guid>
+      <guid>/blog/2025-12-23-hanh-trinh-lam-quen-voi-lap-trinh-mang-bang-java-socket/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Đây là bài viết đầu tiên trong series về lập trình mạng của mình. Mình muốn ghi lại những cảm xúc và trải nghiệm khi lần đầu tiên làm cho hai chương trình Java có thể &amp;ldquo;nói chuyện&amp;rdquo; với nhau qua mạng.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;tại-sao-mình-lại-học-lập-trình-mạng&#34;&gt;Tại sao mình lại học lập trình mạng?&lt;/h2&gt;&#xA;&lt;p&gt;Trước đây, mình chỉ biết viết những chương trình chạy trên một máy tính. Mỗi khi chạy code, mình thấy kết quả ngay trên màn hình console của chính mình. Nhưng một ngày, giảng viên hỏi: &amp;ldquo;Làm sao để chương trình trên máy tính này gửi dữ liệu cho máy tính khác?&amp;rdquo; Câu hỏi đó khiến mình tò mò.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hành trình làm quen với lập trình mạng bằng Java Socket</title>
-      <link>https://Kieran262.github.io/Blog_ca_nhan_network/post/2025-12-23-hanh-trinh-lam-quen-voi-lap-trinh-mang-bang-java-socket/</link>
+      <link>/post/2025-12-23-hanh-trinh-lam-quen-voi-lap-trinh-mang-bang-java-socket/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/post/2025-12-23-hanh-trinh-lam-quen-voi-lap-trinh-mang-bang-java-socket/</guid>
+      <guid>/post/2025-12-23-hanh-trinh-lam-quen-voi-lap-trinh-mang-bang-java-socket/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Đây là bài viết đầu tiên trong series về lập trình mạng của mình. Mình muốn ghi lại những cảm xúc và trải nghiệm khi lần đầu tiên làm cho hai chương trình Java có thể &amp;ldquo;nói chuyện&amp;rdquo; với nhau qua mạng.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;tại-sao-mình-lại-học-lập-trình-mạng&#34;&gt;Tại sao mình lại học lập trình mạng?&lt;/h2&gt;&#xA;&lt;p&gt;Trước đây, mình chỉ biết viết những chương trình chạy trên một máy tính. Mỗi khi chạy code, mình thấy kết quả ngay trên màn hình console của chính mình. Nhưng một ngày, giảng viên hỏi: &amp;ldquo;Làm sao để chương trình trên máy tính này gửi dữ liệu cho máy tính khác?&amp;rdquo; Câu hỏi đó khiến mình tò mò.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Xây dựng mô hình Client–Server đơn giản bằng Java: Góc nhìn người mới học</title>
-      <link>https://Kieran262.github.io/Blog_ca_nhan_network/blog/2025-12-23-xay-dung-mo-hinh-client-server-don-gian-bang-java/</link>
+      <link>/blog/2025-12-23-xay-dung-mo-hinh-client-server-don-gian-bang-java/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/blog/2025-12-23-xay-dung-mo-hinh-client-server-don-gian-bang-java/</guid>
+      <guid>/blog/2025-12-23-xay-dung-mo-hinh-client-server-don-gian-bang-java/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Khi học về Client-Server, mình đã từng thắc mắc: &amp;ldquo;Tại sao lại cần mô hình này? Tại sao không phải là cách khác?&amp;rdquo; Bài viết này là câu trả lời mà mình tự tìm ra thông qua việc thực hành.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;hiểu-về-client-server-theo-cách-của-mình&#34;&gt;Hiểu về Client-Server theo cách của mình&lt;/h2&gt;&#xA;&lt;p&gt;Trước khi học lập trình mạng, mình nghĩ rằng mọi chương trình đều hoạt động độc lập. Nhưng khi được giới thiệu về Client-Server, mình mới nhận ra rằng trong thực tế, các ứng dụng thường chia thành hai phần: một phần cung cấp dịch vụ (server) và một phần sử dụng dịch vụ đó (client).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Xây dựng mô hình Client–Server đơn giản bằng Java: Góc nhìn người mới học</title>
-      <link>https://Kieran262.github.io/Blog_ca_nhan_network/post/2025-12-23-xay-dung-mo-hinh-client-server-don-gian-bang-java/</link>
+      <link>/post/2025-12-23-xay-dung-mo-hinh-client-server-don-gian-bang-java/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/post/2025-12-23-xay-dung-mo-hinh-client-server-don-gian-bang-java/</guid>
+      <guid>/post/2025-12-23-xay-dung-mo-hinh-client-server-don-gian-bang-java/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Khi học về Client-Server, mình đã từng thắc mắc: &amp;ldquo;Tại sao lại cần mô hình này? Tại sao không phải là cách khác?&amp;rdquo; Bài viết này là câu trả lời mà mình tự tìm ra thông qua việc thực hành.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;hiểu-về-client-server-theo-cách-của-mình&#34;&gt;Hiểu về Client-Server theo cách của mình&lt;/h2&gt;&#xA;&lt;p&gt;Trước khi học lập trình mạng, mình nghĩ rằng mọi chương trình đều hoạt động độc lập. Nhưng khi được giới thiệu về Client-Server, mình mới nhận ra rằng trong thực tế, các ứng dụng thường chia thành hai phần: một phần cung cấp dịch vụ (server) và một phần sử dụng dịch vụ đó (client).&lt;/p&gt;</description>
     </item>
   </channel>
