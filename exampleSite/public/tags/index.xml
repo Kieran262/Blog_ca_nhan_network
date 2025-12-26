@@ -2,164 +2,164 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Blog lập trình mạng - Vũ Trường Thịnh</title>
-    <link>https://Kieran262.github.io/Blog_ca_nhan_network/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Blog lập trình mạng - Vũ Trường Thịnh</description>
     <generator>Hugo</generator>
     <language>vi-vn</language>
     <lastBuildDate>Tue, 23 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://Kieran262.github.io/Blog_ca_nhan_network/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Async</title>
-      <link>https://Kieran262.github.io/Blog_ca_nhan_network/tags/async/</link>
+      <link>/tags/async/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/tags/async/</guid>
+      <guid>/tags/async/</guid>
       <description></description>
     </item>
     <item>
       <title>Browser</title>
-      <link>https://Kieran262.github.io/Blog_ca_nhan_network/tags/browser/</link>
+      <link>/tags/browser/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/tags/browser/</guid>
+      <guid>/tags/browser/</guid>
       <description></description>
     </item>
     <item>
       <title>Callback</title>
-      <link>https://Kieran262.github.io/Blog_ca_nhan_network/tags/callback/</link>
+      <link>/tags/callback/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/tags/callback/</guid>
+      <guid>/tags/callback/</guid>
       <description></description>
     </item>
     <item>
       <title>Client-Server</title>
-      <link>https://Kieran262.github.io/Blog_ca_nhan_network/tags/client-server/</link>
+      <link>/tags/client-server/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/tags/client-server/</guid>
+      <guid>/tags/client-server/</guid>
       <description></description>
     </item>
     <item>
       <title>Comparison</title>
-      <link>https://Kieran262.github.io/Blog_ca_nhan_network/tags/comparison/</link>
+      <link>/tags/comparison/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/tags/comparison/</guid>
+      <guid>/tags/comparison/</guid>
       <description></description>
     </item>
     <item>
       <title>Error-Handling</title>
-      <link>https://Kieran262.github.io/Blog_ca_nhan_network/tags/error-handling/</link>
+      <link>/tags/error-handling/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/tags/error-handling/</guid>
+      <guid>/tags/error-handling/</guid>
       <description></description>
     </item>
     <item>
       <title>Exception</title>
-      <link>https://Kieran262.github.io/Blog_ca_nhan_network/tags/exception/</link>
+      <link>/tags/exception/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/tags/exception/</guid>
+      <guid>/tags/exception/</guid>
       <description></description>
     </item>
     <item>
       <title>Fetch-Api</title>
-      <link>https://Kieran262.github.io/Blog_ca_nhan_network/tags/fetch-api/</link>
+      <link>/tags/fetch-api/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/tags/fetch-api/</guid>
+      <guid>/tags/fetch-api/</guid>
       <description></description>
     </item>
     <item>
       <title>Học Tập</title>
-      <link>https://Kieran262.github.io/Blog_ca_nhan_network/tags/h%E1%BB%8Dc-t%E1%BA%ADp/</link>
+      <link>/tags/h%E1%BB%8Dc-t%E1%BA%ADp/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/tags/h%E1%BB%8Dc-t%E1%BA%ADp/</guid>
+      <guid>/tags/h%E1%BB%8Dc-t%E1%BA%ADp/</guid>
       <description></description>
     </item>
     <item>
       <title>Http</title>
-      <link>https://Kieran262.github.io/Blog_ca_nhan_network/tags/http/</link>
+      <link>/tags/http/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/tags/http/</guid>
+      <guid>/tags/http/</guid>
       <description></description>
     </item>
     <item>
       <title>Java</title>
-      <link>https://Kieran262.github.io/Blog_ca_nhan_network/tags/java/</link>
+      <link>/tags/java/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/tags/java/</guid>
+      <guid>/tags/java/</guid>
       <description></description>
     </item>
     <item>
       <title>Javascript</title>
-      <link>https://Kieran262.github.io/Blog_ca_nhan_network/tags/javascript/</link>
+      <link>/tags/javascript/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/tags/javascript/</guid>
+      <guid>/tags/javascript/</guid>
       <description></description>
     </item>
     <item>
       <title>Multithreading</title>
-      <link>https://Kieran262.github.io/Blog_ca_nhan_network/tags/multithreading/</link>
+      <link>/tags/multithreading/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/tags/multithreading/</guid>
+      <guid>/tags/multithreading/</guid>
       <description></description>
     </item>
     <item>
       <title>Network</title>
-      <link>https://Kieran262.github.io/Blog_ca_nhan_network/tags/network/</link>
+      <link>/tags/network/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/tags/network/</guid>
+      <guid>/tags/network/</guid>
       <description></description>
     </item>
     <item>
       <title>Practice</title>
-      <link>https://Kieran262.github.io/Blog_ca_nhan_network/tags/practice/</link>
+      <link>/tags/practice/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/tags/practice/</guid>
+      <guid>/tags/practice/</guid>
       <description></description>
     </item>
     <item>
       <title>Promise</title>
-      <link>https://Kieran262.github.io/Blog_ca_nhan_network/tags/promise/</link>
+      <link>/tags/promise/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/tags/promise/</guid>
+      <guid>/tags/promise/</guid>
       <description></description>
     </item>
     <item>
       <title>Server</title>
-      <link>https://Kieran262.github.io/Blog_ca_nhan_network/tags/server/</link>
+      <link>/tags/server/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/tags/server/</guid>
+      <guid>/tags/server/</guid>
       <description></description>
     </item>
     <item>
       <title>Socket</title>
-      <link>https://Kieran262.github.io/Blog_ca_nhan_network/tags/socket/</link>
+      <link>/tags/socket/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/tags/socket/</guid>
+      <guid>/tags/socket/</guid>
       <description></description>
     </item>
     <item>
       <title>Tcp</title>
-      <link>https://Kieran262.github.io/Blog_ca_nhan_network/tags/tcp/</link>
+      <link>/tags/tcp/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/tags/tcp/</guid>
+      <guid>/tags/tcp/</guid>
       <description></description>
     </item>
     <item>
       <title>Thread</title>
-      <link>https://Kieran262.github.io/Blog_ca_nhan_network/tags/thread/</link>
+      <link>/tags/thread/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/tags/thread/</guid>
+      <guid>/tags/thread/</guid>
       <description></description>
     </item>
     <item>
       <title>Udp</title>
-      <link>https://Kieran262.github.io/Blog_ca_nhan_network/tags/udp/</link>
+      <link>/tags/udp/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/tags/udp/</guid>
+      <guid>/tags/udp/</guid>
       <description></description>
     </item>
     <item>
       <title>Web</title>
-      <link>https://Kieran262.github.io/Blog_ca_nhan_network/tags/web/</link>
+      <link>/tags/web/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/tags/web/</guid>
+      <guid>/tags/web/</guid>
       <description></description>
     </item>
   </channel>

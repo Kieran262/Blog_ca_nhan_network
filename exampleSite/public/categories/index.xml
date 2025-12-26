@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Blog lập trình mạng - Vũ Trường Thịnh</title>
-    <link>https://Kieran262.github.io/Blog_ca_nhan_network/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Blog lập trình mạng - Vũ Trường Thịnh</description>
     <generator>Hugo</generator>
     <language>vi-vn</language>
     <lastBuildDate>Tue, 23 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://Kieran262.github.io/Blog_ca_nhan_network/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java</title>
-      <link>https://Kieran262.github.io/Blog_ca_nhan_network/categories/java/</link>
+      <link>/categories/java/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/categories/java/</guid>
+      <guid>/categories/java/</guid>
       <description></description>
     </item>
     <item>
       <title>JavaScript</title>
-      <link>https://Kieran262.github.io/Blog_ca_nhan_network/categories/javascript/</link>
+      <link>/categories/javascript/</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://Kieran262.github.io/Blog_ca_nhan_network/categories/javascript/</guid>
+      <guid>/categories/javascript/</guid>
       <description></description>
     </item>
   </channel>
